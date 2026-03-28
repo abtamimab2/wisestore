@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body, html {
+      height: 100%;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .centered-text {
+      text-align: center;
+      color:red;
+    }
+  </style>
+</head>
+<body>
+  <div class="centered-text">
+    <h1>Please Enable javascript in your device</h1>
+  </div>
+</body>
+</html>
